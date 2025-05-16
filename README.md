@@ -24,25 +24,10 @@ Un bot Discord simple et puissant pour lire de la musique depuis YouTube avec co
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/music-bot.git
-cd music-bot
+git clone https://github.com/CiscoDerm/MUSIC_BOT.git
+cd MUSIC_BOT
 ````
-
-### 2. Installer les dépendances
-
-```bash
-pip install -r requirements.txt
-```
-
-> Exemple de `requirements.txt` :
->
-> ```txt
-> discord.py>=2.3
-> yt-dlp
-> PyNaCl
-> ```
-
-### 3. Installer FFmpeg
+### 2. Installer FFmpeg
 
 * Linux : `sudo apt install ffmpeg`
 * Windows : [Téléchargez ici](https://ffmpeg.org/download.html) et ajoutez le binaire à votre PATH
@@ -64,7 +49,7 @@ Par votre token Discord (disponible depuis le [portail développeur Discord](htt
 ## ▶️ Lancer le bot
 
 ```bash
-python bot.py
+python3 bot.py
 ```
 
 ---
