@@ -1,8 +1,3 @@
-Voici un exemple de `README.md` prêt à être publié avec ton bot sur GitHub :
-
----
-
-````markdown
 # 🎵 Discord Music Bot (Slash Commands)
 
 Un bot Discord simple et puissant pour lire de la musique depuis YouTube avec commandes slash.
